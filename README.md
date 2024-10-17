@@ -76,4 +76,8 @@ Run the following command to start building the AMI:
 During the build, Packer will launch an EC2 instance using the base AMI, install necessary packages, and configure Nginx to serve content from a cloned Git repository.
 ![Screenshot (41)](https://github.com/user-attachments/assets/93ee4e4f-4b40-422a-bb62-fbbf2af22c85)
 
+after the successfully creation of instance it will delete the stopped and create the ami here is the output:
+![Screenshot 2024-10-17 131811](https://github.com/user-attachments/assets/501b0ee6-9e94-4b78-862a-2c8ca40aec01)
+
+
 

@@ -53,7 +53,7 @@ The variables.pkr.hcl file defines variables used in the Packer build. Ensure th
 1. Clone the Repository
 Clone this repository to your local machine:
 ## 
-    https://github.com/mohit-decoder/packer.git
+    git clone https://github.com/mohit-decoder/packer.git
 
 2. Make neccersary changes
 Make the neccessary changes in file **packer-vars.json**

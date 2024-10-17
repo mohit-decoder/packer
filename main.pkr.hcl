@@ -43,7 +43,7 @@ build {
   }
 
   provisioner "file" {
-    source      = "."
+    source      = "docker-service"
     destination = "/tmp/docker.service"
   }
 
